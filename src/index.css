@@ -1,0 +1,30 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+h1{
+  text-align: center;
+}
+Button{
+  margin: 10px;
+}
+li{
+  border: 2px solid black;
+  margin: 5px;
+  padding: 6px;
+  display: flex;
+  width: 95%;
+}
+ul{
+  margin-top: 10px;
+}
+.listers{
+  float: left;
+ 
+}
+.remove{
+  float: right;
+  width: 3%;
+  margin-left:88%;  
+}
